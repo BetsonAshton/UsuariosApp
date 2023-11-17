@@ -1,5 +1,5 @@
 # Projeto AspNet API para Controle de Usuários
-Treino C# WebDeveloper 
+Treino API em .NET utilzando C#
 
 ## Tecnologias utilizadas:
 
